@@ -26,7 +26,7 @@ It allows adding products, viewing information about them in a table, and managi
 1. **Clone the repository**:
 
 ```tap
-git clone https://github.com/AlenSaavedra/PescaGYE-S.A.git
+git clone https://github.com/AlenSaavedra/Pesca-Gye.git
 ```
 
 2. **Build and run**:
@@ -42,8 +42,8 @@ mvn javafx: run
 ## Project Structure
 
 - **src/com/questionnaire**: Contains the Java classes to handle the application logic.
-- **LoginController.java**: Controller for user authentication.
-- **ProductController.java**: Controller for managing products.
+- **PrimaryController.java**: Controller for user authentication.
+- **SecondaryController.java**: Controller for managing products.
 - **src/com/questionnaire/primary.fxml**: Definition of the main interface of the application.
 - **src/com/questionnaire/secundary.fxml**: Definition of the interface for adding products.
 - **src/com/questionnaire/login.fxml**: Definition of the login interface (login screen).
