@@ -48,6 +48,16 @@ mvn javafx: run
 - **src/com/questionnaire/secundary.fxml**: Definition of the interface for adding products.
 - **src/com/questionnaire/login.fxml**: Definition of the login interface (login screen).
 
+## IMGS - Project
+
+- **LOGIN**
+![image](https://github.com/user-attachments/assets/b207ec92-df42-41cc-9bb9-1815f5c4e141)
+
+- **INVENTORY**
+![image](https://github.com/user-attachments/assets/5fc831c3-e4e3-4fc9-add8-afd15b7830de)
+
+
+
 ## Contributions
 
 If you wish to contribute, please **fork** the project and submit a **pull request** with your changes.
