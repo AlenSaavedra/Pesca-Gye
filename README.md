@@ -50,12 +50,11 @@ mvn javafx: run
 
 ## IMGS - Project
 
-- **LOGIN**
+```tap
 ![image](https://github.com/user-attachments/assets/b207ec92-df42-41cc-9bb9-1815f5c4e141)
 
-- **INVENTORY**
 ![image](https://github.com/user-attachments/assets/5fc831c3-e4e3-4fc9-add8-afd15b7830de)
-
+```
 
 
 ## Contributions
